@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @benyoudz
+- 👀 I’m interested in Ai Developing
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on create AI project 
