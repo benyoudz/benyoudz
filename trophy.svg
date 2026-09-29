@@ -1,0 +1,51 @@
+<svg width="900" height="210" viewBox="0 0 900 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Youcef — GitHub Builder Trophy</title>
+  <desc id="desc">A GitHub profile trophy banner for Youcef, focused on AI, cybersecurity, and software engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101820"/>
+      <stop offset="100%" stop-color="#16251d"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6d365"/>
+      <stop offset="100%" stop-color="#c89b3c"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="5" stdDeviation="6" flood-opacity=".35"/>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="884" height="194" rx="28" fill="url(#bg)" stroke="#2d4638" stroke-width="2"/>
+
+  <!-- subtle circuit decoration -->
+  <g fill="none" stroke="#3f6850" stroke-width="2" opacity=".45">
+    <path d="M42 42h90l18 18v22"/>
+    <circle cx="42" cy="42" r="4" fill="#6ea77f"/>
+    <path d="M858 166h-90l-18-18v-22"/>
+    <circle cx="858" cy="166" r="4" fill="#6ea77f"/>
+  </g>
+
+  <!-- trophy -->
+  <g transform="translate(62 42)" filter="url(#shadow)">
+    <path d="M40 18h76v38c0 31-16 50-38 50S40 87 40 56V18z" fill="url(#gold)" stroke="#f8e6a4" stroke-width="3"/>
+    <path d="M40 28H18c0 34 15 49 34 49M116 28h22c0 34-15 49-34 49" fill="none" stroke="#e0b94f" stroke-width="10" stroke-linecap="round"/>
+    <path d="M78 106v25M53 143h50" stroke="#e0b94f" stroke-width="11" stroke-linecap="round"/>
+    <path d="M54 47c10 8 18 12 24 12s14-4 24-12" fill="none" stroke="#fff0b8" stroke-width="4" opacity=".8"/>
+    <circle cx="78" cy="42" r="7" fill="#fff0b8" opacity=".9"/>
+  </g>
+
+  <!-- text -->
+  <g font-family="Arial, Helvetica, sans-serif" fill="#ffffff">
+    <text x="230" y="72" font-size="24" font-weight="700" fill="#9bd3ad" letter-spacing="3">GITHUB BUILDER</text>
+    <text x="230" y="115" font-size="42" font-weight="800">YOUCEF</text>
+    <text x="230" y="145" font-size="20" fill="#d7e4dc">@benyoudz</text>
+    <text x="230" y="177" font-size="16" fill="#aebdb4">AI • Cybersecurity • Software Engineering</text>
+  </g>
+
+  <!-- star accents -->
+  <g fill="#f6d365">
+    <path d="M820 48l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/>
+    <path d="M846 72l2 5 5 2-5 2-2 5-2-5-5-2 5-2z"/>
+    <path d="M805 88l2 5 5 2-5 2-2 5-2-5-5-2 5-2z"/>
+  </g>
+</svg>
