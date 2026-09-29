@@ -22,7 +22,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benyoudz&theme=onestar&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="./trophy.svg" alt="GitHub Trophies">
 </p>
 
 ### ✍️ Random Dev Quote
