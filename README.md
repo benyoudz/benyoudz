@@ -19,8 +19,11 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=benyoudz&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=benyoudz&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=benyoudz&theme=onestar&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
