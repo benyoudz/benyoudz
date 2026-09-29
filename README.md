@@ -11,16 +11,14 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benyoudz&show_icons=true&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=benyoudz&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=benyoudz&theme=shadow_green&hide_border=false" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=benyoudz&theme=shadow_green&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=benyoudz&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benyoudz&theme=shadow_green&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=benyoudz&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
